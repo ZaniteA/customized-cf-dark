@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Codeforces dark theme
-// @version      1.1.1
-// @description  dark theme for codeforces
-// @author       Gaurang Tandon
+// @name         Customized Codeforces Dark Theme
+// @version      1.0
+// @description  A customized version of Codeforces Dark Theme
+// @author       Zanite
 // @match        https://codeforces.com/*
 // @match        http://codeforces.com/*
 // @match        https://calendar.google.com/calendar/embed*
